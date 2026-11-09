@@ -1,0 +1,198 @@
+{
+ "reading": [
+  {
+   "key": "Reading1",
+   "label": "Bộ đề 1",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading2",
+   "label": "Bộ đề 2",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading3",
+   "label": "Bộ đề 3",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading4",
+   "label": "Bộ đề 4",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading5",
+   "label": "Bộ đề 5",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading6",
+   "label": "Bộ đề 6",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading7",
+   "label": "Bộ đề 7",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading8",
+   "label": "Bộ đề 8",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading9",
+   "label": "Bộ đề 9",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading10",
+   "label": "Bộ đề 10",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading11",
+   "label": "Bộ đề 11",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading12",
+   "label": "Bộ đề 12",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading83",
+   "label": "Bộ đề 83",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading91",
+   "label": "Bộ đề 91",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading96",
+   "label": "Bộ đề 96",
+   "audio": "",
+   "explained": true
+  },
+  {
+   "key": "Reading102",
+   "label": "Bộ đề 102",
+   "audio": "",
+   "explained": true
+  }
+ ],
+ "listen": [
+  {
+   "key": "Listen1",
+   "label": "Bộ đề 1",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen1%2FListen1.mp3?alt=media&token=6f84d7bd-dd08-4742-9fb4-01b89f04efc7",
+   "explained": false
+  },
+  {
+   "key": "Listen2",
+   "label": "Bộ đề 2",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen2%2FListen2.mp3?alt=media&token=33c06ab8-fd9e-4b66-bafc-7772c28680ed",
+   "explained": false
+  },
+  {
+   "key": "Listen3",
+   "label": "Bộ đề 3",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen3%2FListen3.mp3?alt=media&token=42619370-76c5-424c-bab8-cdb34616c30d",
+   "explained": false
+  },
+  {
+   "key": "Listen4",
+   "label": "Bộ đề 4",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen4%2Fde4.mp3?alt=media&token=c87e7bfa-d1f8-49a1-85db-f7daf39c440e",
+   "explained": false
+  },
+  {
+   "key": "Listen5",
+   "label": "Bộ đề 5",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen5%2FListen5.mp3?alt=media&token=e7f57b99-2fe7-476b-9484-9172d51cc2b0",
+   "explained": false
+  },
+  {
+   "key": "Listen6",
+   "label": "Bộ đề 6",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen6%2FNGHE6.mp3?alt=media&token=b8361427-b33f-4637-9cf8-494a456d8f96",
+   "explained": false
+  },
+  {
+   "key": "Listen7",
+   "label": "Bộ đề 7",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen7%2Fnghe7.mp3?alt=media&token=ed10fc69-8489-44fb-9dd6-c76e09bb760a",
+   "explained": false
+  },
+  {
+   "key": "Listen8",
+   "label": "Bộ đề 8",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen8%2Fde8.mp3?alt=media&token=36550a1b-5d87-4ea4-b7c3-a89a9c39fa53",
+   "explained": false
+  },
+  {
+   "key": "Listen9",
+   "label": "Bộ đề 9",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen9%2Fde9.mp3?alt=media&token=dba6a6dd-d1ea-490d-9f45-43ec82fd230d",
+   "explained": false
+  },
+  {
+   "key": "Listen10",
+   "label": "Bộ đề 10",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen10%2Fde10.mp3?alt=media&token=e83f6b3f-0c1f-43dc-b257-a7178350023d",
+   "explained": false
+  },
+  {
+   "key": "Listen11",
+   "label": "Bộ đề 11",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen11%2Fde11.mp3?alt=media&token=a69ba216-a3d4-4a17-97c4-11ef4c7bd595",
+   "explained": false
+  },
+  {
+   "key": "Listen12",
+   "label": "Bộ đề 12",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen12%2Fde12.mp3?alt=media&token=58c80638-2329-49da-9481-244971055f38",
+   "explained": false
+  },
+  {
+   "key": "Listen83",
+   "label": "Bộ đề 83",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen83%2F%5BLISTENING%20TOPIK%2083%5D%20TOPIK%20%E1%84%83%E1%85%B3%E1%86%AE%E1%84%80%E1%85%B5%2083%E1%84%92%E1%85%AC%20_%20%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%82%E1%85%B3%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%B5%E1%84%92%E1%85%A5%E1%86%B7%20%E1%84%83%E1%85%B3%E1%86%AE%E1%84%80%E1%85%B5%20%E1%84%8C%E1%85%B5%E1%84%86%E1%85%AE%E1%86%AB%20-%20BA%CC%80I%20NGHE%20TOPIK%20II%20ke%CC%80m%20phu%CC%A3%20%C4%91e%CC%82%CC%80.mp3?alt=media&token=0f332054-0c96-42ed-ba28-7bd54b68d23b",
+   "explained": false
+  },
+  {
+   "key": "Listen91",
+   "label": "Bộ đề 91",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen8%2Fnghe8.mp3?alt=media&token=ccd4c62d-bdfb-492b-b43e-dd42d67211ed",
+   "explained": false
+  },
+  {
+   "key": "Listen102",
+   "label": "Bộ đề 102",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen102%2Flisten102.mp3?alt=media&token=99c73c94-6164-41ee-acfc-62a64e3ac4f4",
+   "explained": false
+  },
+  {
+   "key": "Listen96",
+   "label": "Bộ đề 96",
+   "audio": "https://firebasestorage.googleapis.com/v0/b/upload-9ece2.appspot.com/o/Listen96%2F96.mp3?alt=media&token=2e64a56c-c8c7-42ca-9135-ffc9ad24c410",
+   "explained": false
+  }
+ ]
+}

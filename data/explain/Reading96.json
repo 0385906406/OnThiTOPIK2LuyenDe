@@ -1,0 +1,708 @@
+{
+"1": {
+  "hint": "Sốt hạ xuống là kết quả xảy ra **sau khi** làm gì với thuốc cảm?",
+  "point": "`-고 나서`: sau khi (làm xong)…",
+  "passage": "(**Sau khi uống**) thuốc cảm thì đã hạ sốt.",
+  "explain": "Uống thuốc xong → sốt hạ: trình tự hai việc nối tiếp → `먹고 나서`.",
+  "options": [
+    "`-느라고`: vì mải làm… (nên kết quả xấu). \"Mải uống thuốc nên hạ sốt\" — vô lý.",
+    "`-더라도`: dù… cũng. Không hợp.",
+    "`-(으)ㄹ 텐데`: chắc là… (phỏng đoán) — không nối được với sự việc đã xảy ra.",
+    "`-고 나서`: sau khi. Đúng."
+  ],
+  "vocab": [["감기약", "thuốc cảm"], ["열이 내리다", "hạ sốt"]],
+  "recall": {"q": "Đặt câu với `-느라고`.", "a": "VD: 숙제하느라고 잠을 못 잤어요. (Mải làm bài tập nên không ngủ được.)"}
+},
+"2": {
+  "hint": "Ngày mai làm kimbap nên **chuẩn bị sẵn từ trước** nguyên liệu. Đáp án nào diễn tả \"làm sẵn và để đó\"?",
+  "point": "`-아/어 놓다`: làm sẵn (và giữ nguyên trạng thái đó)",
+  "passage": "Định ngày mai làm kimbap nên tôi đã (**chuẩn bị sẵn**) nguyên liệu từ trước.",
+  "explain": "\"미리\" (trước) + mục đích cho ngày mai → làm sẵn để dùng sau → `준비해 놓았다`.",
+  "options": [
+    "`-아/어 놓다`: làm sẵn. Đúng.",
+    "`-곤 하다`: thường hay (thói quen) — không hợp với việc chuẩn bị cho một lần cụ thể.",
+    "`-(으)면 되다`: chỉ cần… là được — không hợp với câu kể.",
+    "`-는 법이다`: lẽ đương nhiên — không hợp."
+  ],
+  "vocab": [["재료", "nguyên liệu"], ["미리", "trước, sẵn"]],
+  "recall": {"q": "Phân biệt `-아/어 놓다` và `-아/어 두다`.", "a": "Gần như đồng nghĩa (làm sẵn). `-아/어 두다` nhấn mạnh hơn việc giữ trạng thái lâu dài."}
+},
+"3": {
+  "hint": "`-는 바람에`: vì (một việc bất ngờ) nên **kết quả xấu** (đi học muộn). Đáp án nào cũng chỉ nguyên nhân dẫn tới kết quả xấu?",
+  "point": "`-는 바람에` ≈ `-(으)ㄴ 탓에`: tại vì (kết quả tiêu cực)",
+  "passage": "Vì **lên nhầm xe buýt** nên tôi đã đến lớp muộn.",
+  "explain": "`-는 바람에` và `-(으)ㄴ 탓에` đều chỉ nguyên nhân gây ra kết quả không mong muốn → ①.",
+  "options": [
+    "`-(으)ㄴ 탓에`: tại vì (đổ lỗi, kết quả xấu). Đúng.",
+    "`-는 김에`: nhân tiện… thì.",
+    "`-(으)ㄴ 반면에`: ngược lại thì (đối lập).",
+    "`-는 대신에`: thay vì."
+  ],
+  "vocab": [["잘못 타다", "lên nhầm (xe)"], ["늦다", "muộn"]],
+  "recall": {"q": "Ngữ pháp nguyên nhân mang sắc thái **tích cực** tương ứng với `-(으)ㄴ 탓에` là gì?", "a": "`-(으)ㄴ 덕분에` (nhờ có…)."}
+},
+"4": {
+  "hint": "`-아/어야만 했다` = **buộc phải**. Cuộc họp kéo dài nên **không còn cách nào khác** ngoài lùi hẹn.",
+  "point": "`-아/어야만 하다` ≈ `-(으)ㄹ 수밖에 없다`: buộc phải",
+  "passage": "Cuộc họp kéo dài nên tôi **đã buộc phải** lùi giờ hẹn.",
+  "explain": "Cả hai cấu trúc đều diễn tả việc bắt buộc, không có lựa chọn khác → ④.",
+  "options": [
+    "`-기만 하다`: chỉ toàn… — không có nghĩa bắt buộc.",
+    "`-(으)ㄹ 줄 모르다`: không biết cách / không ngờ.",
+    "`-기가 어렵다`: khó… — ngược ý (thực tế đã lùi).",
+    "`-(으)ㄹ 수밖에 없다`: không còn cách nào khác. Đúng."
+  ],
+  "vocab": [["회의", "cuộc họp"], ["길어지다", "kéo dài"], ["미루다", "hoãn, lùi lại"]],
+  "recall": {"q": "Dịch: 비가 와서 집에 있을 수밖에 없었어요.", "a": "Vì trời mưa nên tôi đành phải ở nhà."}
+},
+"5": {
+  "hint": "\"**Đắp** vào là lập tức vào mộng~\", \"êm ấm đến sáng\". Đồ gì để đắp khi ngủ?",
+  "point": "Động từ `덮다` (đắp) + 꿈나라 (giấc mơ) → chăn",
+  "passage": "Vừa đắp là vào ngay xứ sở giấc mơ~ Êm ái và ấm áp đến tận sáng!",
+  "explain": "**덮다** (đắp) + **꿈나라** (giấc ngủ) + **포근하고 따뜻하게** → chăn (이불).",
+  "options": [
+    "장갑: găng tay — 끼다, 손이 따뜻하다.",
+    "이불: chăn. Đúng.",
+    "화장품: mỹ phẩm — 피부, 바르다.",
+    "손수건: khăn tay."
+  ],
+  "vocab": [["덮다", "đắp, che"], ["꿈나라", "xứ sở giấc mơ (giấc ngủ)"], ["포근하다", "êm ấm"]],
+  "recall": {"q": "\"Đắp chăn\" và \"trải đệm\" nói thế nào?", "a": "이불을 덮다 / 요(이불)를 깔다."}
+},
+"6": {
+  "hint": "\"Lưu giữ kỷ niệm hôm nay trong **một tấm**\", \"giữ lại vẻ đẹp nguyên vẹn\". Nơi nào chụp ảnh?",
+  "point": "Từ khóa: 한 장 (một tấm), 모습을 남기다 → ảnh",
+  "passage": "Kỷ niệm hôm nay gói trong một tấm. Hãy lưu lại hình ảnh đẹp nguyên vẹn của bạn.",
+  "explain": "\"한 장에\" (một tấm) + \"모습을 그대로 남기다\" (giữ lại hình ảnh) → **tiệm chụp ảnh** (사진관).",
+  "options": [
+    "서점: hiệu sách.",
+    "은행: ngân hàng.",
+    "빨래방: tiệm giặt tự động.",
+    "사진관: tiệm chụp ảnh. Đúng."
+  ],
+  "vocab": [["추억", "kỷ niệm"], ["장", "tấm (đơn vị đếm giấy, ảnh)"], ["남기다", "để lại, lưu lại"]],
+  "recall": {"q": "Đơn vị đếm: một tấm ảnh, một cuốn sách, một bộ phim?", "a": "사진 한 장, 책 한 권, 영화 한 편."}
+},
+"7": {
+  "hint": "\"Trước trường học hãy **chạy chậm**! Hãy quan sát thêm lần nữa xem có trẻ em không\". Lời nhắc dành cho ai?",
+  "point": "Đối tượng: người lái xe → 안전 운전",
+  "passage": "Trước cổng trường, đi chậm thôi! Hãy quan sát thêm một lần nữa xem có trẻ em không.",
+  "explain": "Lời nhắc người lái xe đi chậm, chú ý trẻ em → **lái xe an toàn**.",
+  "options": [
+    "안전 운전: lái xe an toàn. Đúng.",
+    "건강 관리: quản lý sức khỏe.",
+    "전기 절약: tiết kiệm điện.",
+    "환경 보호: bảo vệ môi trường."
+  ],
+  "vocab": [["살피다", "quan sát, xem xét"], ["천천히", "từ từ, chậm"]],
+  "recall": {"q": "어린이 보호 구역 là gì?", "a": "Khu vực bảo vệ trẻ em (school zone) — xe phải chạy chậm."}
+},
+"8": {
+  "hint": "\"Chọn ngày, giờ, **số người** muốn dùng bữa\", \"nhập tên và số điện thoại người nhận liên lạc\". Đây là các bước làm gì?",
+  "point": "Các bước đánh số + 날짜, 시간, 인원수 → đặt chỗ",
+  "passage": "① Hãy chọn ngày, giờ và số người muốn dùng bữa.\n② Hãy nhập tên và số liên lạc của người sẽ nhận liên lạc.",
+  "explain": "Chọn ngày giờ, số người, nhập thông tin liên lạc → **cách đặt chỗ** (예약 방법).",
+  "options": [
+    "예약 방법: cách đặt chỗ. Đúng.",
+    "일정 문의: hỏi lịch trình.",
+    "이용 후기: cảm nhận sau khi dùng.",
+    "제품 소개: giới thiệu sản phẩm."
+  ],
+  "vocab": [["인원수", "số người"], ["성함", "tên (kính ngữ)"], ["연락처", "số liên lạc"], ["입력하다", "nhập"]],
+  "recall": {"q": "후기 nghĩa là gì?", "a": "Bài cảm nhận/đánh giá sau khi sử dụng (review)."}
+},
+"9": {
+  "hint": "Dòng ※: \"신청서는 인주시청 홈페이지 게시판에서 **다운로드 가능**\".",
+  "point": "Diễn đạt lại: 다운로드하다 = 내려받다",
+  "passage": "Cuộc thi hát qua video thành phố Inju lần 3\n• Cách nộp: gửi video bạn hát và đơn đăng ký qua email (norae@inju.go.kr)\n※ Đơn đăng ký có thể tải xuống ở bảng tin trang chủ Tòa thị chính Inju\n• Thời gian nộp: 1/11/2024 (thứ Sáu) ~ 15/11 (thứ Sáu)\n• Công bố kết quả: 29/11 (thứ Sáu), đăng trên trang chủ Tòa thị chính Inju",
+  "explain": "Đơn đăng ký tải được từ trang chủ → ③ \"홈페이지에서 내려받을 수 있다\".",
+  "options": [
+    "Sai: kết quả đăng trên **trang chủ**, không gửi email.",
+    "Sai: hạn nộp là **15/11**; 29/11 là ngày công bố.",
+    "Đúng.",
+    "Sai: nộp video qua **email**."
+  ],
+  "vocab": [["영상", "video"], ["신청서", "đơn đăng ký"], ["전송", "gửi"], ["게시판", "bảng tin"], ["내려받다", "tải xuống"], ["게시", "đăng"]],
+  "recall": {"q": "Từ thuần Hàn của 다운로드 và 업로드?", "a": "내려받기 / 올리기."}
+},
+"10": {
+  "hint": "Mỹ phẩm 19%, thực phẩm 31%. Cái nào **thấp hơn**?",
+  "point": "Biểu đồ tròn: so sánh, xếp hạng (가장 많다, 두 번째)",
+  "passage": "Mặt hàng được giao qua chuyển phát nhiều nhất? (Đối tượng khảo sát: hàng hóa giao bởi Inju Express năm 2023)\nThực phẩm 31%, quần áo 25%, mỹ phẩm 19%, đồ điện tử 13%, đồ thể thao 8%, khác 4%.",
+  "explain": "Mỹ phẩm 19% < thực phẩm 31% → ②.",
+  "options": [
+    "Sai: nhiều nhất là **thực phẩm** (31%), quần áo đứng thứ hai.",
+    "Đúng.",
+    "Sai: đồ thể thao 8%, chưa đến 10%.",
+    "Sai: thứ hai là **quần áo** (25%); đồ điện tử đứng thứ tư."
+  ],
+  "vocab": [["택배", "chuyển phát"], ["배송되다", "được giao"], ["의류", "quần áo"], ["전자 제품", "đồ điện tử"], ["운동 용품", "đồ thể thao"]],
+  "recall": {"q": "Nói \"chiếm tỷ lệ cao thứ ba\" bằng tiếng Hàn.", "a": "세 번째로 높은 비율을 차지하다."}
+},
+"11": {
+  "hint": "\"이 프로그램은 로봇 과학자가 되기를 희망하는 학생들에게 특히 **반응이 좋다**.\"",
+  "point": "Diễn đạt lại: 반응이 좋다 = 인기가 많다; 희망하다 = 꿈꾸다",
+  "passage": "Tiếp nối năm ngoái, năm nay Viện nghiên cứu Robot Inju lại tổ chức chương trình giáo dục cho học sinh tiểu học thành phố Inju trong kỳ nghỉ đông. Học sinh tham gia có thể trải nghiệm tự tay chế tạo và điều khiển robot tại viện. Chương trình đặc biệt được hưởng ứng ở những học sinh mong muốn trở thành nhà khoa học robot. Viện dự kiến tiếp tục chương trình này vào kỳ nghỉ đông năm sau.",
+  "explain": "\"희망하는 학생들에게 반응이 좋다\" = được những học sinh **mơ ước** làm nhà khoa học robot **yêu thích** → ④.",
+  "options": [
+    "Sai: \"작년에 이어\" — đã có từ năm ngoái.",
+    "Sai: năm sau vẫn vào **kỳ nghỉ đông**, không phải trong học kỳ.",
+    "Sai: học sinh đến **viện** để trải nghiệm.",
+    "Đúng."
+  ],
+  "vocab": [["연구소", "viện nghiên cứu"], ["방학을 맞다", "đến kỳ nghỉ"], ["조종하다", "điều khiển"], ["체험", "trải nghiệm"], ["반응", "phản ứng, sự hưởng ứng"]],
+  "recall": {"q": "Đáp án ① sai vì cụm từ nào?", "a": "\"작년에 이어 올해에도\" (tiếp nối năm ngoái) — không phải lần đầu."}
+},
+"12": {
+  "hint": "\"…이상하게 여긴 마을 사람들이 **개를 따라가** 김 씨를 발견했다.\"",
+  "point": "Trình tự sự việc: tai nạn → chó chạy về làng → người làng theo chó → phát hiện",
+  "passage": "Ngày 23 vừa qua, một chiếc xe bị trượt trên đường núi. Người lái xe là ông Kim bất tỉnh, con chó của ông đi cùng đã thoát ra khỏi xe và chạy đến ngôi làng gần đó. Thấy lạ vì con chó không có chủ cứ sủa mãi, người dân làng đi theo con chó và phát hiện ra ông Kim. Nhờ người dân báo tin, ông Kim đã được đưa đến bệnh viện và đang điều trị.",
+  "explain": "Người làng **đi theo con chó** và phát hiện ra vụ tai nạn → ④.",
+  "options": [
+    "Sai: ông Kim **bất tỉnh**, con chó tự chạy đi.",
+    "Sai: ông Kim đang **lái xe** trên đường núi, không phải leo núi.",
+    "Sai: đó là chó **của ông Kim**, không phải của người làng; và người làng mới là người phát hiện.",
+    "Đúng."
+  ],
+  "vocab": [["산길", "đường núi"], ["의식을 잃다", "bất tỉnh"], ["짖다", "sủa"], ["여기다", "cho là, coi là"], ["신고", "báo tin"]],
+  "recall": {"q": "`-자` trong \"의식을 잃자\" nghĩa là gì?", "a": "Ngay khi/vừa… thì (A xảy ra dẫn tới B)."}
+},
+"13": {
+  "hint": "(나) có \"그 엽서\", (라) có \"고민하다가\" (sau khi đắn đo) — đắn đo về chuyện gì?",
+  "point": "Tự sự: bối cảnh → vấn đề → giải pháp → kết quả",
+  "passage": "(가) Hồi sinh viên, lần đầu tiên tôi được đi du lịch nước ngoài.\n(다) Tôi muốn mua quà cho gia đình ở nơi du lịch nhưng không có nhiều tiền.\n(라) Đắn đo một hồi, tôi viết chuyện du lịch lên tấm bưu thiếp in phong cảnh nước đó rồi gửi đi.\n(나) Gia đình nhận được tấm bưu thiếp ấy và nói rất cảm động.",
+  "explain": "(가) bối cảnh (đi du lịch lần đầu) → (다) vấn đề (ít tiền mua quà) → (라) giải pháp (gửi bưu thiếp) → (나) \"그 엽서\" kết quả. → (가)-(다)-(라)-(나).",
+  "options": [
+    "(가)-(나)…: \"그 엽서\" xuất hiện khi chưa có bưu thiếp nào.",
+    "Đúng.",
+    "(다) không mở đầu được: \"여행지\" chưa được giới thiệu.",
+    "(다) mở đầu — sai như trên."
+  ],
+  "vocab": [["해외여행", "du lịch nước ngoài"], ["엽서", "bưu thiếp"], ["풍경", "phong cảnh"], ["감동적", "cảm động"]],
+  "recall": {"q": "`-다가` trong \"고민하다가\" nghĩa là gì?", "a": "Đang… thì (chuyển sang hành động khác): đắn đo một hồi rồi…"}
+},
+"14": {
+  "hint": "(다) có \"**원래**\" (ban đầu) → kể nguồn gốc. (나) \"그런데\" nêu vấn đề. Ai đó giải quyết vấn đề bằng cách nào?",
+  "point": "Nguồn gốc → `그런데` vấn đề → giải pháp → kết quả",
+  "passage": "(다) Bánh donut ban đầu được làm bằng cách nhào bột mì thành hình tròn rồi chiên trong dầu.\n(나) Nhưng phần giữa của khối bột tròn thường không chín.\n(라) Có người đã khoét phần giữa của khối bột thành hình chiếc nhẫn.\n(가) Khối bột hình nhẫn được chiên đều trong dầu nên chín đều toàn bộ.",
+  "explain": "(다) ban đầu → (나) \"그런데\" vấn đề không chín giữa → (라) giải pháp khoét lỗ → (가) kết quả \"bột hình nhẫn\" chín đều. → (다)-(나)-(라)-(가).",
+  "options": [
+    "(가) mở đầu thì \"hình nhẫn\" chưa được giải thích.",
+    "(가) mở đầu — sai.",
+    "Đúng.",
+    "(다)-(라)…: giải pháp xuất hiện trước khi có vấn đề."
+  ],
+  "vocab": [["반죽", "bột nhào"], ["튀기다", "chiên"], ["익다", "chín"], ["고리 모양", "hình chiếc nhẫn"], ["파내다", "khoét ra"]],
+  "recall": {"q": "Mạch \"vấn đề → giải pháp → kết quả\" thường có từ nối nào?", "a": "그런데/하지만 (vấn đề), 그래서/이에 (giải pháp), 그 결과 (kết quả)."}
+},
+"15": {
+  "hint": "(다) \"…**때문이다**\" giải thích lý do cho việc gì? (가) có \"또한\" (ngoài ra) — chức năng thứ hai của râu.",
+  "point": "Hiện tượng → lý do → `또한` chức năng 2 → ví dụ cụ thể",
+  "passage": "(나) Mèo đi trên bức tường cao và hẹp mà không hề chao đảo.\n(다) Vì nó dùng râu cảm nhận hướng gió để giữ thăng bằng cơ thể.\n(가) Ngoài ra, mèo còn thể hiện tâm trạng bằng râu.\n(라) Khi sợ hãi, mèo kéo râu ra phía sau; khi thoải mái thì hạ râu xuống.",
+  "explain": "(나) hiện tượng → (다) lý do (râu giữ thăng bằng) → (가) \"또한\" chức năng thứ hai (thể hiện tâm trạng) → (라) ví dụ cụ thể về tâm trạng. → (나)-(다)-(가)-(라).",
+  "options": [
+    "Đúng.",
+    "(나)-(라)…: ví dụ tâm trạng xuất hiện trước khi nói râu thể hiện tâm trạng.",
+    "(라) không mở đầu được.",
+    "(라) không mở đầu được."
+  ],
+  "vocab": [["담", "tường rào"], ["흔들림", "sự chao đảo"], ["수염", "râu"], ["균형을 잡다", "giữ thăng bằng"], ["드러내다", "thể hiện"], ["두렵다", "sợ hãi"]],
+  "recall": {"q": "Trong bài này, câu ví dụ (라) phải đứng ngay sau câu nào?", "a": "Câu (가) — câu nêu ý khái quát mà nó minh họa (râu thể hiện tâm trạng)."}
+},
+"16": {
+  "hint": "Dùng số thật trong phim → người dùng số đó **bị làm phiền**. Hội đồng điện ảnh chuẩn bị số điện thoại riêng để làm gì?",
+  "point": "`이와 같은` + danh từ → chỉ lại vấn đề vừa nêu (thiệt hại)",
+  "passage": "Có khi số điện thoại xuất hiện trong cảnh phim. Lúc đó nếu dùng số thật, sẽ có người tò mò gọi đến, khiến người dùng số này khó sinh hoạt bình thường. Hội đồng Phát triển Điện ảnh đã chuẩn bị sẵn những số điện thoại xuất hiện trong phim cũng không sao (**để ngăn những thiệt hại như vậy**) và cung cấp cho các hãng sản xuất phim.",
+  "explain": "\"이와 같은 ( )\" chỉ lại vấn đề vừa nêu: người dùng số thật bị làm phiền = **thiệt hại** → để **ngăn thiệt hại** → ①.",
+  "options": [
+    "Đúng.",
+    "Sai: ngược lại, họ dùng số giả chứ không dùng sự thật.",
+    "Sai: không bàn yêu cầu khán giả.",
+    "Sai: không bàn quảng bá cách làm phim."
+  ],
+  "vocab": [["장면", "cảnh"], ["호기심", "sự tò mò"], ["일상생활", "sinh hoạt thường ngày"], ["영화진흥위원회", "Hội đồng Phát triển Điện ảnh"], ["확보하다", "chuẩn bị, đảm bảo"], ["제작사", "hãng sản xuất"]],
+  "recall": {"q": "`상관없다` nghĩa là gì?", "a": "Không sao, không liên quan, không thành vấn đề."}
+},
+"17": {
+  "hint": "30 năm trước dự báo 40 năm nữa hết dầu; nay dự báo còn dùng **hơn 50 năm** nữa. Điều gì đã thay đổi?",
+  "point": "`이렇게` tổng kết hai dự báo → so sánh để suy ra thay đổi",
+  "passage": "30 năm trước, các chuyên gia năng lượng cảnh báo rằng 40 năm sau đó sẽ không còn dầu mỏ để dùng trên Trái Đất. Nhưng các chuyên gia hiện nay dự đoán ta vẫn có thể tiếp tục dùng dầu mỏ hơn 50 năm nữa. Lý do (**thời gian có thể sử dụng**) dầu mỏ **tăng lên** như vậy là vì công nghệ tìm dầu đã phát triển. Nhờ công nghệ này, người ta phát hiện được nhiều nơi có dầu hơn.",
+  "explain": "Từ \"còn 10 năm\" (theo dự báo cũ) thành \"còn hơn 50 năm\" → **thời gian có thể dùng dầu tăng** → ③.",
+  "options": [
+    "Sai: không nói chất lượng.",
+    "Sai: không nói giá.",
+    "Đúng.",
+    "Sai: không nói giá trị giảm."
+  ],
+  "vocab": [["석유", "dầu mỏ"], ["경고하다", "cảnh báo"], ["예측하다", "dự đoán"], ["발견하다", "phát hiện"]],
+  "recall": {"q": "`그로부터 40년 후` nghĩa là gì?", "a": "40 năm sau kể từ lúc đó."}
+},
+"18": {
+  "hint": "Cột cầu có **vạch** cách đều. Người quản lý kiểm tra **nước sông có dâng cao không** khi mưa. Vạch dùng để biết gì?",
+  "point": "Câu sau làm rõ mục đích của dấu hiệu (강물이 높아지는지)",
+  "passage": "Cầu Supyo là cây cầu thời Joseon được xây để phòng chống lũ lụt. Trên cột đá của cầu có đánh dấu ở những khoảng cách nhất định nên có thể dễ dàng biết được (**sự thay đổi mực nước sông**). Người quản lý cầu Supyo khi trời mưa thường xuyên kiểm tra nước sông có dâng cao không, nếu thấy sắp lũ thì báo cho mọi người sơ tán.",
+  "explain": "Câu sau: kiểm tra \"강물이 높아지는지\" (nước sông có dâng lên không) → vạch dùng để biết **sự thay đổi độ cao mực nước** → ①.",
+  "options": [
+    "Đúng.",
+    "Sai: không nói tốc độ dòng chảy.",
+    "Sai: vạch nằm trên cột, không đo khoảng cách cột.",
+    "Sai: không nói vật liệu."
+  ],
+  "vocab": [["홍수", "lũ lụt"], ["대비하다", "phòng bị"], ["기둥", "cột"], ["간격", "khoảng cách"], ["대피하다", "sơ tán"]],
+  "recall": {"q": "Tên cầu 수표교 (水標橋) có nghĩa gì?", "a": "Cầu có \"vạch đo nước\" — 수표 = mốc đo mực nước."}
+},
+"19": {
+  "hint": "Câu hỏi mơ hồ → không có câu trả lời; câu hỏi cụ thể → câu trả lời hữu ích. Hai câu **đối lập** nhau.",
+  "point": "`반면(에)`: ngược lại",
+  "passage": "Muốn khơi gợi ý tưởng tốt thì phải cân nhắc kỹ cách đặt câu hỏi. Giả sử một công ty hỏi nhân viên để làm sản phẩm mới. Nếu hỏi mơ hồ \"Món đồ nào sẽ bán chạy?\" thì khó có câu trả lời. Vì đó không phải câu hỏi hay. (**Ngược lại**), nếu hỏi \"Ta nên cải thiện điều gì ở sản phẩm hiện nay?\" thì sẽ có câu trả lời cụ thể, hữu ích.",
+  "explain": "Hai cách hỏi trái ngược (막연하다 ↔ 구체적) → từ nối đối lập `반면`.",
+  "options": [
+    "결코: tuyệt đối (không) — đi với phủ định.",
+    "특히: đặc biệt.",
+    "비록: tuy (đi với -지만).",
+    "반면: ngược lại. Đúng."
+  ],
+  "vocab": [["끌어내다", "khơi gợi, kéo ra"], ["막연하다", "mơ hồ"], ["개선하다", "cải thiện"], ["구체적", "cụ thể"]],
+  "recall": {"q": "`-ㄴ다고 치다` trong \"질문을 한다고 치자\" nghĩa là gì?", "a": "Giả sử là… (đưa ra giả định để làm ví dụ)."}
+},
+"20": {
+  "hint": "Câu đầu: \"좋은 생각을 끌어내려면 **질문을 어떻게 할지 잘 고민해야** 한다.\"",
+  "point": "Chủ đề ở câu đầu, được chứng minh bằng ví dụ",
+  "passageRef": 19,
+  "explain": "Muốn có câu trả lời tốt phải **đặt câu hỏi tốt** → ②.",
+  "options": [
+    "Sai: không bàn thời gian suy nghĩ.",
+    "Đúng.",
+    "Sai: không bàn đoán trước câu trả lời.",
+    "Sai: ngược lại — câu hỏi mơ hồ (trừu tượng) không hiệu quả."
+  ],
+  "vocab": [["추상적", "trừu tượng"], ["예상되다", "được dự đoán"]],
+  "recall": {"q": "Đáp án ④ trái với điều gì trong bài?", "a": "Bài nói câu hỏi mơ hồ (막연한 질문) không cho câu trả lời tốt."}
+},
+"21": {
+  "hint": "Các thầy cô **cùng nhau bàn bạc** cách cứu trường. Thành ngữ nào chứa \"đầu\" và nghĩa là chụm đầu cùng bàn?",
+  "point": "Quán dụng ngữ: `머리를 맞대다` = chụm đầu bàn bạc",
+  "passage": "Một trường tiểu học vùng núi suýt bị đóng cửa vì số học sinh giảm đã thoát khỏi khủng hoảng, đang được chú ý. Các thầy cô giáo của trường (**chụm đầu cùng nhau**) tìm cách cứu trường. Rồi họ tìm ra mô hình \"trường chuyên âm nhạc\". Các thầy cô nhờ trường đại học nghệ thuật hợp tác, tìm chuyên gia dạy nhiều loại nhạc cụ cho học sinh. Họ còn nhận tài trợ của doanh nghiệp để tổ chức buổi hòa nhạc với các nhạc sĩ nổi tiếng. Nghe tin, có học sinh đến học nhạc, nhờ vậy trường thoát khỏi nguy cơ đóng cửa.",
+  "explain": "\"고민했다\" (cùng suy nghĩ) + nhiều thầy cô → **cùng nhau bàn bạc** → `머리를 맞대고`.",
+  "options": [
+    "눈을 딱 감다: nhắm mắt làm liều / làm ngơ.",
+    "머리를 맞대다: chụm đầu bàn bạc. Đúng.",
+    "손에 땀을 쥐다: hồi hộp thót tim.",
+    "목에 힘을 주다: lên mặt, kiêu căng."
+  ],
+  "vocab": [["폐교", "đóng cửa trường"], ["산골", "vùng núi"], ["위기에서 벗어나다", "thoát khỏi khủng hoảng"], ["특성화 학교", "trường chuyên biệt"], ["협조", "hợp tác"], ["기부", "tài trợ, quyên góp"]],
+  "recall": {"q": "Nêu nghĩa: 머리를 식히다, 머리가 좋다.", "a": "머리를 식히다: làm đầu óc thư giãn. 머리가 좋다: thông minh."}
+},
+"22": {
+  "hint": "\"또 기업의 기부를 받아 **유명 음악가와 함께하는 음악회**도 개최했다.\"",
+  "point": "Phân biệt ai làm gì: trường ĐH nghệ thuật (chuyên gia), doanh nghiệp (tài trợ)",
+  "passageRef": 21,
+  "explain": "Buổi hòa nhạc có **nhạc sĩ nổi tiếng** tham gia → ③.",
+  "options": [
+    "Sai: nhờ **trường ĐH nghệ thuật** tìm chuyên gia; doanh nghiệp chỉ tài trợ.",
+    "Sai: học sinh đến **tăng** lên, trường thoát khỏi khủng hoảng.",
+    "Đúng.",
+    "Sai: **chuyên gia** dạy nhạc cụ, không phải thầy cô."
+  ],
+  "vocab": [["개최하다", "tổ chức"], ["참여하다", "tham gia"]],
+  "recall": {"q": "Bẫy ở đáp án ① là gì?", "a": "Đổi chủ thể: 예술대학교 (trường nghệ thuật) thành 기업 (doanh nghiệp)."}
+},
+"23": {
+  "hint": "Phần gạch chân: \"**nắm chặt vô lăng**, chỉ nhìn phía trước mà chạy\". Câu ngay trước: \"chân run lẩy bẩy\".",
+  "point": "Cảm xúc qua hành động: chân run, nắm chặt vô lăng → căng thẳng",
+  "passage": "Người bố đã nghỉ hưu ngày nào cũng lái xe đưa tôi đến chỗ làm. Vì giao thông công cộng giờ đi làm rất bất tiện. Bố vừa lái vừa cằn nhằn rất nhiều: \"Nhân viên mới phải chào hỏi cho tử tế. Tiêu tiền tiết kiệm vào……\" Vừa ghét nghe cằn nhằn mỗi lần đi làm, vừa muốn tự lái xe nên tôi đã đi thi bằng lái. Vừa nhận bằng là tôi quyết định tự lái xe đi làm. Sợ mua xe mới lỡ bị trầy xước nên tạm thời tôi mượn xe của bố. \"Phải quan sát kỹ xung quanh khi lái đấy.\" Tôi lớn tiếng bảo bố rằng chuyện đó con cũng biết, rồi xuất phát. Nhưng suốt đường lái xe, chân tôi run lẩy bẩy. Khác hẳn lúc ngồi ở ghế bên cạnh. **Tôi nắm chặt vô lăng, chỉ nhìn thẳng phía trước mà chạy trên đường.** (phần gạch chân) Tan làm về đến nhà an toàn, tôi nhẹ nhõm đến mức suýt khóc. Tôi chợt thấy biết ơn bố — người ngày nào cũng đưa tôi đi.",
+  "explain": "Chân run, nắm chặt vô lăng, không dám nhìn đi đâu khác → **căng thẳng** (긴장되다).",
+  "options": [
+    "기대되다: háo hức mong đợi.",
+    "긴장되다: căng thẳng. Đúng.",
+    "뿌듯하다: tự hào, mãn nguyện — xuất hiện sau khi về nhà an toàn thì gần hơn, nhưng không phải lúc đang lái.",
+    "창피하다: xấu hổ."
+  ],
+  "vocab": [["퇴직하다", "nghỉ hưu"], ["잔소리", "lời cằn nhằn"], ["운전면허를 따다", "lấy bằng lái"], ["긁히다", "bị trầy"], ["큰소리를 치다", "nói to, nói chắc"], ["후들후들", "run lẩy bẩy"], ["운전대", "vô lăng"], ["안도감", "cảm giác nhẹ nhõm"]],
+  "recall": {"q": "`-기라도 할까 봐` trong \"긁히기라도 할까 봐\" nghĩa là gì?", "a": "Sợ lỡ đâu (xảy ra chuyện như…) — lo về một khả năng xấu."}
+},
+"24": {
+  "hint": "\"당분간 **아빠의 차를 빌려 쓰기로** 했다\" và cuối bài \"퇴근하고 집에 무사히 돌아왔다\".",
+  "point": "Ghép chi tiết: mượn xe bố + lái đi làm và về",
+  "passageRef": 23,
+  "explain": "Mượn xe bố, lái đi làm, tan làm về nhà an toàn → ①.",
+  "options": [
+    "Đúng.",
+    "Sai: trước đó **bố chở** đi làm (vì giao thông công cộng bất tiện).",
+    "Sai: sợ trầy xe mới nên **mượn xe bố**, không mua xe.",
+    "Sai: lái xe rất **khó khăn**, run cả chân."
+  ],
+  "vocab": [["빌려 쓰다", "mượn dùng"], ["구매하다", "mua"], ["조언", "lời khuyên"]],
+  "recall": {"q": "`-자마자` trong \"면허증을 받자마자\" nghĩa là gì?", "a": "Ngay khi vừa… (vừa nhận bằng lái là…)."}
+},
+"25": {
+  "hint": "\"모처럼의 황금연휴\" = kỳ nghỉ dài **hiếm hoi**; \"껑충\" = **tăng vọt**.",
+  "point": "Tiêu đề báo: `모처럼` (hiếm hoi, lâu lắm mới có), `껑충` (tăng vọt)",
+  "passage": "Kỳ nghỉ lễ vàng hiếm hoi, lượt hỏi đặt tour ở các công ty du lịch \"tăng vọt\".",
+  "explain": "Kỳ nghỉ dài **lâu lắm mới có** + hỏi đặt tour **tăng mạnh** → ③.",
+  "options": [
+    "Sai: \"황금연휴\" là nghỉ dài; \"껑충\" là tăng, không giảm.",
+    "Sai: tiêu đề không nói về giá.",
+    "Đúng.",
+    "Sai: \"모처럼\" (hiếm có) khác \"매년\" (hằng năm); không nói quảng bá."
+  ],
+  "vocab": [["모처럼", "hiếm hoi, lâu lắm mới"], ["황금연휴", "kỳ nghỉ lễ vàng (dài)"], ["여행사", "công ty du lịch"], ["대폭", "mạnh, đáng kể"]],
+  "recall": {"q": "Phân biệt 모처럼 và 오랜만에.", "a": "Gần nghĩa. 모처럼 nhấn mạnh sự hiếm hoi, quý giá (cố ý dành cho); 오랜만에 chỉ \"sau một thời gian dài\"."}
+},
+"26": {
+  "hint": "\"수상 **유력**\" = **có nhiều khả năng** nhận giải (chưa nhận). \"기대 고조\" = kỳ vọng dâng cao.",
+  "point": "Từ Hán Hàn: 유력 (有力) = có khả năng cao; 고조 (高潮) = dâng cao",
+  "passage": "Kim Min-su có nhiều khả năng nhận giải \"Cầu thủ của năm\", người hâm mộ bóng chày kỳ vọng dâng cao.",
+  "explain": "Chưa nhận giải nhưng **khả năng cao** → fan **kỳ vọng tăng** → ③.",
+  "options": [
+    "Sai: chưa nhận giải.",
+    "Sai: kết quả chưa có.",
+    "Đúng.",
+    "Sai: chưa thất bại."
+  ],
+  "vocab": [["수상", "nhận giải"], ["유력하다", "có khả năng cao"], ["고조되다", "dâng cao"]],
+  "recall": {"q": "Bẫy chung ở đáp án ①②④ là gì?", "a": "Coi sự việc chưa xảy ra (유력 = khả năng) như đã có kết quả."}
+},
+"27": {
+  "hint": "\"지지부진\" = **trì trệ, chậm chạp**; \"속 터지다\" = **sốt ruột, bực bội** đến \"nổ ruột\".",
+  "point": "Thành ngữ 4 chữ: 지지부진 (遲遲不進) = chậm chạp không tiến triển",
+  "passage": "Việc khắc phục thiệt hại do bão trì trệ, người dân Inju sốt ruột \"muốn nổ tung\".",
+  "explain": "Khắc phục chậm chạp → người dân **bực bội, sốt ruột** → ④.",
+  "options": [
+    "Sai: không nói thiệt hại hằng năm hay yêu cầu đối sách.",
+    "Sai: vấn đề là việc khắc phục chậm, không phải dân ít tham gia.",
+    "Sai: ngược với \"속 터지는\".",
+    "Đúng."
+  ],
+  "vocab": [["지지부진하다", "trì trệ"], ["복구", "khôi phục, khắc phục"], ["속(이) 터지다", "sốt ruột, bực bội"], ["답답하다", "bức bối"], ["저조하다", "thấp, kém"]],
+  "recall": {"q": "Nghĩa của 속이 시원하다 và 속이 상하다?", "a": "속이 시원하다: hả dạ, nhẹ nhõm. 속이 상하다: buồn bực, đau lòng."}
+},
+"28": {
+  "hint": "Kênh phát **trực tiếp, không cắt ghép** một địa điểm. Khán giả đắm chìm trong cảnh có \"**cảm giác hiện trường**\" như thể đang làm gì?",
+  "point": "`마치 -는 것처럼` = cứ như thể đang… (so sánh giả định)",
+  "passage": "Kênh phát sóng internet \"Ngay lúc này, ở đó\" — chiếu trực tiếp một địa điểm nhất định — gần đây đang được yêu thích. Kênh này cho xem nguyên vẹn một địa điểm, không cắt ghép, như cảnh Seoul nhìn xuống từ núi Namsan hay đường phố Quảng trường Thời Đại New York nhìn qua cửa sổ. Khán giả trước màn hình đắm chìm vào khung cảnh có cảm giác như ở hiện trường, cảm thấy cứ như thể (**đang tự mình đến đó ngắm nhìn**).",
+  "explain": "\"현장감\" (cảm giác như đang ở hiện trường) + \"마치…것처럼\" → như thể **đang trực tiếp đến đó nhìn** → ④.",
+  "options": [
+    "Sai: đây là phát **trực tiếp** (실시간), không phải video cũ.",
+    "Sai: cảm giác như đang ở đó, không phải \"chưa từng đến\".",
+    "Sai: không liên quan người nổi tiếng.",
+    "Đúng."
+  ],
+  "vocab": [["실시간", "thời gian thực"], ["비추다", "chiếu, soi"], ["내려다보다", "nhìn xuống"], ["편집", "biên tập, cắt ghép"], ["현장감", "cảm giác hiện trường"], ["빠져들다", "đắm chìm"]],
+  "recall": {"q": "Dịch: 마치 꿈을 꾸는 것처럼 느껴졌다.", "a": "Tôi cảm thấy cứ như thể đang mơ."}
+},
+"29": {
+  "hint": "Sanjo là nhạc **ngẫu hứng**, không chơi theo bản nhạc, mỗi sân khấu một khác. Theo không khí hiện trường mà chơi thế nào?",
+  "point": "Đặc điểm ngẫu hứng (즉흥적) → mỗi lần một khác → nhiều biến đổi",
+  "passage": "\"Sanjo\" là một thể loại nhạc truyền thống Hàn Quốc trong đó một người chơi dùng một nhạc cụ để thể hiện ngẫu hứng các giai điệu và nhịp phong phú. Nét độc đáo của sanjo là người chơi không chơi theo bản nhạc mà biểu diễn độc tấu khác nhau ở mỗi sân khấu. Vì người chơi (**tạo nhiều biến đổi**) theo không khí hiện trường nên dù xem buổi diễn của cùng một nghệ sĩ nhiều lần, mỗi lần vẫn có thể cảm nhận một xúc động mới.",
+  "explain": "Ngẫu hứng, mỗi sân khấu khác nhau, mỗi lần xem một cảm xúc mới → chơi **với nhiều biến đổi** → ②.",
+  "options": [
+    "Sai: sanjo là **một** người chơi.",
+    "Đúng.",
+    "Sai: chỉ **một** nhạc cụ.",
+    "Sai: ngược lại, **không** chơi theo bản nhạc."
+  ],
+  "vocab": [["연주자", "người biểu diễn (nhạc)"], ["다채롭다", "phong phú, đa sắc"], ["가락", "giai điệu"], ["장단", "nhịp, tiết tấu"], ["즉흥적으로", "một cách ngẫu hứng"], ["갈래", "nhánh, thể loại"], ["악보", "bản nhạc"], ["독주", "độc tấu"]],
+  "recall": {"q": "`A가 아니라 B` trong \"악보대로 연주하는 것이 아니라…\" giúp loại đáp án nào?", "a": "Đáp án ④ (chơi theo bản nhạc) — chính là điều bị phủ định."}
+},
+"30": {
+  "hint": "Dầu thấm vào găng nilon, **thêm vào đó** (게다가) găng rất **mỏng** → dầu có thể làm gì dễ hơn?",
+  "point": "`게다가` thêm lý do cùng chiều → dầu dễ xuyên qua",
+  "passage": "Nhiều người dùng găng tay nilon khi ăn gà rán vì ghét dầu dính vào tay. Nhưng dù đeo găng nilon ăn gà, dầu vẫn dính vào tay. Đó là vì nilon được làm từ polyethylene ưa dầu nên dầu dễ thấm vào găng. Thêm vào đó, găng nilon rất mỏng nên dầu có thể (**dễ dàng xuyên qua găng hơn**).",
+  "explain": "Lý do 1: dầu thấm vào nilon. `게다가` lý do 2 cùng chiều: găng mỏng → dầu **dễ xuyên qua** → ④.",
+  "options": [
+    "Sai: ngược với \"dầu vẫn dính vào tay\".",
+    "Sai: không nói về vị gà.",
+    "Sai: không nói nilon mềm đi.",
+    "Đúng."
+  ],
+  "vocab": [["비닐장갑", "găng tay nilon"], ["기름이 묻다", "dính dầu"], ["친화적", "có ái lực, thân thiện"], ["스며들다", "thấm vào"], ["두께", "độ dày"], ["통과하다", "xuyên qua"]],
+  "recall": {"q": "`게다가` khác `그런데` thế nào?", "a": "게다가: hơn nữa (thêm ý cùng chiều). 그런데: nhưng mà (chuyển ý/đối lập)."}
+},
+"31": {
+  "hint": "Xu hướng: **làm theo** người nổi tiếng mua mà không suy nghĩ. Niềm tin: chỉ cần **đi theo lựa chọn** của người có ảnh hưởng là chọn được tốt nhất.",
+  "point": "Nội dung ngoặc diễn đạt lại hành vi vừa nêu (고민 없이 따라 사다)",
+  "passage": "Khi chủng loại hàng hóa và cách phân phối đa dạng hơn, việc chọn đồ cũng trở nên khó hơn. Vì vậy xuất hiện xu hướng muốn giảm thời gian lựa chọn mà vẫn mua không thất bại. Một trong số đó là mua theo đồ người nổi tiếng giới thiệu mà không đắn đo. Niềm tin rằng nếu (**làm theo đúng lựa chọn**) của người có ảnh hưởng thì sẽ có lựa chọn tốt nhất trong thời gian ngắn đã phản ánh vào kiểu tiêu dùng này.",
+  "explain": "Hành vi: \"유명인이 추천하는 물건을 고민 없이 따라 사는 것\" → niềm tin tương ứng: **làm theo lựa chọn** của họ → ③.",
+  "options": [
+    "Sai: người nổi tiếng không gửi đồ trực tiếp.",
+    "Sai: không liên quan giá cao.",
+    "Đúng.",
+    "Sai: không nói giúp sản xuất."
+  ],
+  "vocab": [["유통", "phân phối, lưu thông"], ["경향", "xu hướng"], ["유명인", "người nổi tiếng"], ["추천하다", "giới thiệu, đề xuất"], ["영향력", "sức ảnh hưởng"], ["반영되다", "được phản ánh"]],
+  "recall": {"q": "`-(으)면서도` trong \"줄이면서도\" nghĩa là gì?", "a": "Vừa… mà vẫn… (giảm thời gian mà vẫn không thất bại)."}
+},
+"32": {
+  "hint": "Hươu cái 4–5 tuổi (tuổi **mang thai**, cần nhiều dinh dưỡng) cố ăn lá cao hơn nên **cổ dài ra**.",
+  "point": "Diễn đạt lại: 임신으로 영양이 많이 필요한 나이 = 임신을 하는 시기",
+  "passage": "Một nhóm nghiên cứu đã quay phim và phân tích hươu cao cổ trong 10 năm. Nghiên cứu phát hiện khi hươu cái được 4–5 tuổi, tỷ lệ cổ trong toàn bộ chiều dài cơ thể lớn hơn trước. Đó là vì ở độ tuổi cần nhiều dinh dưỡng do mang thai, hươu cố ăn cả những lá cây ở cao hơn nên cổ dài ra. Dựa vào đó, nhóm nghiên cứu cho rằng sự thay đổi chiều dài cổ của hươu có liên quan mật thiết đến nỗ lực tìm thức ăn.",
+  "explain": "Tuổi mang thai → cần dinh dưỡng → vươn ăn lá cao → **cổ dài ra trong thời kỳ mang thai** → ③.",
+  "options": [
+    "Sai: nghiên cứu kéo dài **10 năm**.",
+    "Sai: hươu cố ăn **nhiều hơn**, không giảm.",
+    "Đúng.",
+    "Sai: nhóm nghiên cứu cho rằng có liên quan **mật thiết**."
+  ],
+  "vocab": [["기린", "hươu cao cổ"], ["암컷", "con cái"], ["비율", "tỷ lệ"], ["임신", "mang thai"], ["영양", "dinh dưỡng"], ["밀접하다", "mật thiết"]],
+  "recall": {"q": "Trái nghĩa của 암컷 là gì?", "a": "수컷 (con đực)."}
+},
+"33": {
+  "hint": "\"이 결과를 **도표로 만들어 관계자들을 설득**함으로써…\" — kết quả gì? Số liệu thống kê.",
+  "point": "Diễn đạt lại: 통계로 입증 + 도표로 설득 = 통계 자료를 근거로 설득",
+  "passage": "Thế kỷ 19, nhận thức về vệ sinh của con người chưa cao. Người góp phần cải thiện môi trường y tế, vệ sinh của bệnh viện khi đó chính là y tá Nightingale. Mỗi ngày bà ghi lại số bệnh nhân tử vong và nguyên nhân tử vong ở bệnh viện quân đội, rồi dùng thống kê chứng minh rằng binh sĩ chết vì nhiễm trùng do vấn đề vệ sinh nhiều hơn binh sĩ chết vì vết thương. Sau đó bà làm kết quả này thành biểu đồ để thuyết phục những người liên quan, dần dần cải thiện môi trường y tế.",
+  "explain": "Bà dùng **số liệu thống kê** (làm thành biểu đồ) để thuyết phục người liên quan → ①.",
+  "options": [
+    "Đúng.",
+    "Sai: chết vì **nhiễm trùng** nhiều hơn chết vì vết thương.",
+    "Sai: bà ghi **số tử vong và nguyên nhân** — có cả chết do nhiễm trùng.",
+    "Sai: khi đó nhận thức vệ sinh **chưa cao**."
+  ],
+  "vocab": [["위생", "vệ sinh"], ["기여하다", "đóng góp"], ["부상", "vết thương"], ["감염되다", "bị nhiễm trùng"], ["통계", "thống kê"], ["입증하다", "chứng minh"], ["도표", "biểu đồ"], ["설득하다", "thuyết phục"]],
+  "recall": {"q": "Nightingale được nhớ đến với loại biểu đồ nào?", "a": "Biểu đồ hoa hồng (biểu đồ diện tích cực) — minh họa nguyên nhân tử vong."}
+},
+"34": {
+  "hint": "\"…공중으로 뛰어오를 때 **날의 앞쪽을 사용해** 빙판을 찍으면 더 높이 뛸 수 있다.\" Đó là môn nào?",
+  "point": "Phân biệt hai môn: short track (lưỡi nghiêng trái) ↔ figure (răng cưa phía trước)",
+  "passage": "Lưỡi giày trượt băng khác nhau tùy theo đặc điểm từng môn. Ở trượt băng tốc độ cự ly ngắn (short track), lưỡi được gắn hơi nghiêng sang trái, để vận động viên nghiêng người sang trái khi vào cua mà không bị ngã. Ngược lại, giày trượt băng nghệ thuật có phần trước của lưỡi làm thành hình răng cưa lớn. Vì vậy khi bật lên không trung, vận động viên dùng phần trước của lưỡi bấm vào mặt băng thì có thể nhảy cao hơn.",
+  "explain": "Trượt băng nghệ thuật: dùng **phần trước** (răng cưa) của lưỡi để nhảy cao → ②.",
+  "options": [
+    "Sai: răng cưa là của trượt băng **nghệ thuật**.",
+    "Đúng.",
+    "Sai: phần trước hình **răng cưa**, để nhảy cao (không phải tròn, chống ngã).",
+    "Sai: short track gắn lưỡi **nghiêng sang trái**, không thẳng."
+  ],
+  "vocab": [["날", "lưỡi (giày trượt, dao)"], ["종목", "môn thi đấu"], ["기울이다", "nghiêng"], ["고정시키다", "cố định"], ["톱니", "răng cưa"], ["빙판", "mặt băng"]],
+  "recall": {"q": "Trong bài so sánh hai đối tượng có `반면`, bẫy thường gặp là gì?", "a": "Gán đặc điểm của đối tượng này cho đối tượng kia (như đáp án ①)."}
+},
+"35": {
+  "hint": "\"그런데 메타세쿼이아를 심을 때는 **장소에 유의해야** 한다.\" Nếu trồng sai chỗ thì gây hại gì?",
+  "point": "Chủ đề sau `그런데` + `-아/어야 한다`",
+  "passage": "Cây metasequoia có dáng vươn thẳng lên cao đẹp nên được ưa chuộng làm cây đường phố. Nhưng khi trồng metasequoia phải chú ý đến địa điểm. Metasequoia có đặc tính phát triển nhanh nên không được trồng trên đường có nhiều tòa nhà. Vì rễ mọc nhanh làm nứt tường các tòa nhà xung quanh. Ngoài ra, cây cao và lá rậm nên có thể gây hại như che ánh sáng của tòa nhà.",
+  "explain": "Ý chính: phải chú ý nơi trồng; trồng sai chỗ thì gây hại (nứt tường, che sáng) → ③.",
+  "options": [
+    "Sai: cây phát triển **nhanh**; và nó **được ưa chuộng** làm cây đường phố.",
+    "Sai: bài cảnh báo tác hại khi trồng ven đường có nhà.",
+    "Đúng.",
+    "Sai: không nói chiều cao phụ thuộc nơi trồng."
+  ],
+  "vocab": [["가로수", "cây đường phố"], ["선호되다", "được ưa chuộng"], ["유의하다", "lưu ý"], ["생장", "sinh trưởng"], ["뿌리", "rễ"], ["갈라지다", "nứt ra"], ["무성하다", "rậm rạp"], ["채광", "ánh sáng (lấy vào nhà)"]],
+  "recall": {"q": "Phân biệt 유의하다 và 주의하다.", "a": "Gần nghĩa. 유의하다: lưu tâm để ý; 주의하다: chú ý, cẩn thận (đề phòng nguy hiểm)."}
+},
+"36": {
+  "hint": "Câu cuối: \"인공 강우 기술은 … **근본적인 대책이라고 보기는 어렵다**.\"",
+  "point": "Chủ đề = kết luận phản biện sau `그러나`",
+  "passage": "Các thí nghiệm mưa nhân tạo để giải quyết vấn đề bụi mịn đang được tiến hành tích cực. Kế hoạch là tạo mưa nhân tạo để giảm chỉ số bụi mịn trong không khí. Tuy nhiên, công nghệ mưa nhân tạo hiện nay chỉ dùng được ở vùng có mây, và lượng mưa tạo ra cũng không nhiều. Ở điểm này, khó coi công nghệ mưa nhân tạo là giải pháp căn bản cho vấn đề bụi mịn.",
+  "explain": "Mưa nhân tạo có giới hạn (chỉ nơi có mây, lượng ít) → **có hạn chế** khi làm giải pháp giảm bụi mịn → ④.",
+  "options": [
+    "Sai: bài không khuyến khích tiếp tục để thương mại hóa.",
+    "Sai: không nhắc hợp tác quốc tế.",
+    "Sai: không nói hỗ trợ tài chính.",
+    "Đúng."
+  ],
+  "vocab": [["미세 먼지", "bụi mịn"], ["인공 강우", "mưa nhân tạo"], ["대기", "không khí, khí quyển"], ["수치", "chỉ số"], ["근본적", "căn bản"], ["대책", "đối sách, giải pháp"], ["상용화", "thương mại hóa"]],
+  "recall": {"q": "`-다고 보기는 어렵다` mang sắc thái gì?", "a": "Phủ định nhẹ nhàng, khách quan: khó có thể coi là…"}
+},
+"37": {
+  "hint": "Câu cuối: \"건강세로 얻게 될 효과가 분명한 이상, **도입을 긍정적으로 검토해야** 할 때다.\"",
+  "point": "`물론 A… 하지만 B` → luận điểm là B",
+  "passage": "Thuế sức khỏe là thuế đánh vào thực phẩm có hại cho sức khỏe như đường hay thực phẩm chế biến. Khi thu thuế này, giá các thực phẩm gây bệnh như béo phì, tiểu đường tăng lên nên tiêu dùng bị hạn chế. Điều đó có thể dẫn đến giảm số bệnh nhân mắc bệnh người lớn. Ngoài ra, có thể kỳ vọng dùng tiền thuế thu được làm nguồn tài chính nâng cao sức khỏe người dân. Dĩ nhiên cũng có ý kiến phê phán rằng thuế sức khỏe làm tăng gánh nặng cho người tiêu dùng. Nhưng một khi hiệu quả của thuế sức khỏe đã rõ ràng, đã đến lúc cần xem xét tích cực việc áp dụng nó.",
+  "explain": "Tác giả thừa nhận phản đối (\"물론…\") rồi khẳng định: vì hiệu quả rõ ràng nên **cần áp dụng** → ③.",
+  "options": [
+    "Sai: tác giả không đặt điều kiện giảm gánh nặng; đó là ý kiến phản đối.",
+    "Sai: không bàn khảo sát ý kiến.",
+    "Đúng.",
+    "Sai: không bàn tiêu chí chọn thực phẩm."
+  ],
+  "vocab": [["가공 식품", "thực phẩm chế biến"], ["부과하다", "đánh (thuế), áp"], ["억제되다", "bị hạn chế"], ["재원", "nguồn tài chính"], ["증진", "nâng cao"], ["검토하다", "xem xét"], ["도입", "áp dụng, đưa vào"]],
+  "recall": {"q": "`-는 이상` trong \"효과가 분명한 이상\" nghĩa là gì?", "a": "Một khi đã… thì (hiển nhiên phải…)."}
+},
+"38": {
+  "hint": "Câu cuối: \"따라서 청년 국회 의원의 비율을 확보해 주는 등 **청년들의 정치 활동을 보장할 필요가 있다**.\"",
+  "point": "Chủ đề = câu `따라서…` cuối bài",
+  "passage": "Quốc hội cần được tạo thành từ các nghị sĩ thuộc nhiều thế hệ. Đặc biệt, thế hệ thanh niên nhanh chóng tiếp nhận công nghệ và giá trị quan mới nên có thể đề xuất chính sách phù hợp với biến đổi xã hội. Ngoài ra, người có thể lên tiếng tích cực về các chính sách cho thanh niên như việc làm cũng chính là thanh niên. Nhưng thanh niên thiếu nền tảng chính trị nên khó vào Quốc hội qua bầu cử. Vì vậy cần đảm bảo hoạt động chính trị của thanh niên, như đảm bảo tỷ lệ nghị sĩ trẻ.",
+  "explain": "Đảm bảo tỷ lệ nghị sĩ trẻ, đảm bảo hoạt động chính trị → **giúp thanh niên vào Quốc hội nhiều hơn** → ①.",
+  "options": [
+    "Đúng.",
+    "Sai: bài nói thanh niên **tự** tham gia chính trị, không chỉ cần giới chính trị quan tâm.",
+    "Sai: không bàn tỷ lệ chấp nhận chính sách.",
+    "Sai: bài muốn **hệ thống** đảm bảo, không đòi thanh niên tự cố gắng."
+  ],
+  "vocab": [["국회 의원", "nghị sĩ quốc hội"], ["세대", "thế hệ"], ["가치관", "giá trị quan"], ["부합하다", "phù hợp"], ["기반", "nền tảng"], ["진출하다", "tiến vào"], ["보장하다", "đảm bảo"]],
+  "recall": {"q": "`-기란 쉽지 않다` nghĩa là gì?", "a": "Việc… thì không dễ (nhấn mạnh chủ đề bằng 란)."}
+},
+"39": {
+  "hint": "Câu cho sẵn giải thích **nguồn gốc** tên \"watermark\" (vết khuôn tự nhiên). Câu sau ㉠ nói thợ giấy **bắt đầu** khắc hoa văn riêng — phải biết watermark là gì trước đã.",
+  "point": "Câu chèn giới thiệu khái niệm → các câu sau dùng khái niệm đó",
+  "passage": "Ở Ai Cập cổ đại, giấy được làm bằng cách đặt sợi xơ hòa trong nước lên khuôn rồi phơi khô. (㉠) Sau đó, những người làm giấy bắt đầu khắc hoa văn riêng lên khuôn để để lại watermark của riêng mình. (㉡) Điều này tiếp nối thành việc đưa watermark vào văn bản hay tiền giấy để thể hiện bản quyền hoặc chống làm giả. (㉢) Đến nay, watermark vẫn được dùng rộng rãi để bảo vệ bản quyền ảnh, video… (㉣)",
+  "translate": "Câu cho sẵn: \"Trong quá trình sợi xơ khô đi, vết của khuôn tự nhiên in lại, và người ta gọi đó là watermark.\"",
+  "explain": "Câu trước ㉠ mô tả cách làm giấy bằng khuôn → câu cho sẵn: khi khô, **vết khuôn tự nhiên** in lại = watermark. Câu sau ㉠: \"이후\" thợ giấy **cố ý** khắc hoa văn riêng để có \"watermark của mình\" → phát triển từ khái niệm vừa giới thiệu. → ㉠.",
+  "options": [
+    "㉠: đúng.",
+    "㉡: từ \"워터 마크\" đã được dùng ở câu trước mà chưa giải thích.",
+    "㉢: đang nói ứng dụng chống giả.",
+    "㉣: cuối bài nói ứng dụng hiện đại."
+  ],
+  "vocab": [["섬유질", "chất xơ, sợi xơ"], ["틀", "khuôn"], ["건조하다", "làm khô"], ["자국", "vết"], ["제지업자", "người làm giấy"], ["새기다", "khắc"], ["저작권", "bản quyền"], ["위조", "làm giả"], ["지폐", "tiền giấy"]],
+  "recall": {"q": "Khi câu chèn chứa định nghĩa \"이를 ~라고 불렀다\", nó thường đứng ở đâu?", "a": "Ngay sau câu mô tả hiện tượng được đặt tên, và trước mọi câu dùng tên đó."}
+},
+"40": {
+  "hint": "Câu cho sẵn: \"…**파괴되는 것이다**\" (tức là bị phá hủy) giải thích cụ thể cho câu nào? Câu nói \"địa hình đáy biển **thay đổi**\".",
+  "point": "`-는 것이다` diễn giải chi tiết câu trước; câu sau `이에` (vì vậy) là giải pháp",
+  "passage": "Để làm bê tông cần cốt liệu như cát và sỏi. (㉠) Ở biển, nơi có nhiều cát sỏi tự nhiên, dễ lấy được cốt liệu chất lượng tốt. (㉡) Vì thế nhiều trường hợp khai thác cốt liệu quá mức làm thay đổi địa hình đáy biển. (㉢) Vì vậy, các nỗ lực bảo vệ hệ sinh thái biển vẫn đang tiếp tục, như thực thi nghiêm ngặt các quy định giới hạn lượng khai thác và bắt buộc khôi phục khu vực đã khai thác. (㉣)",
+  "translate": "Câu cho sẵn: \"Tức là các đồi cát và thung lũng dưới đáy biển — nơi sinh vật biển từng sinh sống — bị phá hủy.\"",
+  "explain": "Trước ㉢: \"바닷속 지형이 바뀌는 경우가 많다\" → câu cho sẵn diễn giải cụ thể \"thay đổi địa hình\" = đồi cát, thung lũng bị **phá hủy**, sinh vật mất nơi sống. Sau ㉢: \"이에\" (trước tình hình đó) → giải pháp bảo vệ **hệ sinh thái biển** — nối với \"sinh vật biển\" trong câu cho sẵn. → ㉢.",
+  "options": [
+    "㉠: chưa nói khai thác.",
+    "㉡: chưa nói địa hình thay đổi.",
+    "㉢: đúng.",
+    "㉣: giải pháp đã nêu xong."
+  ],
+  "vocab": [["골재", "cốt liệu"], ["자갈", "sỏi"], ["채취", "khai thác"], ["지형", "địa hình"], ["서식하다", "sinh sống"], ["골짜기", "thung lũng"], ["의무화하다", "bắt buộc hóa"], ["해양 생태계", "hệ sinh thái biển"]],
+  "recall": {"q": "`이에` ở đầu câu thường có nghĩa gì?", "a": "Trước tình hình đó / vì vậy (dẫn sang phản ứng, giải pháp)."}
+},
+"41": {
+  "hint": "Câu cho sẵn: Sang-cheol trao **lời an ủi ấm áp**. Câu sau vị trí đúng: \"lý do… nằm ở chính **sự ấm áp này**\".",
+  "point": "`이 따뜻함` (sự ấm áp này) chỉ lại câu chèn",
+  "passage": "Cuốn tiểu thuyết \"Cửa hàng tiện lợi kỳ lạ\" — được vô số độc giả yêu mến — đang nhận đánh giá tốt cả ở nước ngoài. (㉠) Cuốn sách kể các giai thoại về Sang-cheol, một người vô gia cư tình cờ làm việc ở cửa hàng tiện lợi, và những vị khách đến cửa hàng. (㉡) Lý do cuốn sách vượt ra khỏi Hàn Quốc, chạm đến trái tim độc giả nước ngoài chính là sự ấm áp này. (㉢) Tôi giới thiệu cuốn sách này cho tất cả những ai cần sự động viên trong cuộc sống mệt mỏi. (㉣)",
+  "translate": "Câu cho sẵn: \"Sang-cheol trao lời an ủi ấm áp cho những vị khách mang theo mỗi người một câu chuyện riêng đến cửa hàng.\"",
+  "explain": "Câu trước ㉡ giới thiệu Sang-cheol và các vị khách → câu cho sẵn nói anh an ủi khách **ấm áp** → câu sau ㉡ \"**이 따뜻함**\" chỉ lại. → ㉡.",
+  "options": [
+    "㉠: Sang-cheol chưa được giới thiệu.",
+    "㉡: đúng.",
+    "㉢: \"이 따뜻함\" đã xuất hiện trước khi nói đến sự ấm áp.",
+    "㉣: cuối bài là lời giới thiệu sách."
+  ],
+  "vocab": [["저마다", "mỗi người"], ["사연", "câu chuyện riêng"], ["위로", "an ủi"], ["건네다", "trao"], ["호평", "đánh giá tốt"], ["노숙자", "người vô gia cư"], ["일화", "giai thoại"], ["권하다", "khuyên, giới thiệu"]],
+  "recall": {"q": "Cách nhanh nhất để giải câu này là gì?", "a": "Tìm từ chỉ định trong bài (이 따뜻함) và hỏi \"cái gì ấm áp?\" — câu chèn chính là đáp án."}
+},
+"42": {
+  "hint": "Đề gốc không công bố đoạn văn. Hãy ôn nghĩa 4 từ cảm xúc: 대견하다, 허전하다, 못마땅하다, 감격스럽다.",
+  "point": "Từ vựng cảm xúc: `못마땅하다` = không vừa ý, bực bội vì không hài lòng",
+  "passage": "Đề thi gốc không công bố đoạn văn của câu 42–43 do luật bản quyền (ảnh đề chỉ có thông báo \"저작권 관련 법령에 따라 본 문항의 지문은 공개하지 않습니다\"), nên không có bản dịch.",
+  "explain": "Vì đoạn văn không được công bố, không thể phân tích ngữ cảnh. Đáp án chính thức là ③ **못마땅하다** — nhân vật Jae-heon cảm thấy **không vừa ý, khó chịu** trước một việc/lời nói của người khác ở phần gạch chân.\nMẹo: với câu hỏi tâm trạng, hãy tìm hành động (cau mày, tặc lưỡi, im lặng) và lời nói (phản bác, chê) của nhân vật.",
+  "options": [
+    "대견하다: thấy đáng khen, tự hào (thường với người dưới, con cái).",
+    "허전하다: trống trải, hụt hẫng (khi thiếu vắng ai/cái gì).",
+    "못마땅하다: không vừa ý, bực bội. Đáp án chính thức.",
+    "감격스럽다: xúc động mạnh."
+  ],
+  "vocab": [["대견하다", "đáng khen, tự hào"], ["허전하다", "trống trải"], ["못마땅하다", "không vừa ý"], ["감격스럽다", "xúc động"]],
+  "recall": {"q": "Phân biệt 못마땅하다 và 불만스럽다.", "a": "Gần nghĩa. 못마땅하다 thường hướng vào người/hành động cụ thể (thấy chướng mắt); 불만스럽다 là bất mãn nói chung."}
+},
+"43": {
+  "hint": "Đề gốc không công bố đoạn văn. Đáp án chính thức liên quan đến việc người vợ đang ở cùng ai.",
+  "point": "Từ vựng gia đình: 처제 = em gái của vợ",
+  "passageRef": 42,
+  "explain": "Vì đoạn văn không được công bố, chỉ có thể ghi nhận đáp án chính thức là ① **아내는 지금 처제와 함께 있다** (Người vợ hiện đang ở cùng em gái vợ). Từ các đáp án có thể đoán bối cảnh: người vợ sắp sinh, Jae-heon đang trên đường đến.",
+  "options": [
+    "Người vợ hiện đang ở cùng em gái vợ — đáp án chính thức.",
+    "Em gái vợ có tính cách giống vợ.",
+    "Giờ sinh dự kiến của vợ đã qua.",
+    "Jae-heon vừa đến nơi người vợ đang ở."
+  ],
+  "vocab": [["처제", "em gái vợ"], ["처형", "chị gái vợ"], ["출산 예정", "dự sinh"], ["막", "vừa mới"]],
+  "recall": {"q": "Gọi em trai của vợ và anh/em trai của chồng thế nào?", "a": "처남 (anh/em trai vợ); 도련님/서방님 (em trai chồng), 아주버님 (anh trai chồng)."}
+},
+"44": {
+  "hint": "Graffiti thể hiện **thông điệp phê phán xã hội**, tiếng nói của thiểu số, kẻ yếu \"đối với quyền lực\" (권력에 대한…).",
+  "point": "`권력에 대한 저항` = phản kháng quyền lực",
+  "passage": "Graffiti là tranh vẽ như vẽ bậy hoặc phun sơn xịt lên các mặt tường khắp nơi trên đường phố. Graffiti chủ yếu được vẽ lên tường tàu điện ngầm, nơi công cộng và thường thể hiện thông điệp phê phán xã hội. Nó (**thể hiện tinh thần phản kháng**) đối với quyền lực, chứa đựng tiếng nói của thiểu số và người yếu thế. Vì vậy, graffiti bị coi là nằm ngoài văn hóa chính thống. Nhưng ngày nay graffiti không còn dừng lại ở văn hóa ngoại biên. Bởi nó lấy sự thân thuộc làm vũ khí, thấm vào đời sống hằng ngày và thay đổi nhận thức của mọi người về graffiti. Nhờ đó, người ta bắt đầu chú ý đến giá trị nghệ thuật của graffiti — vốn bị xem thường bấy lâu. Giờ đây graffiti trang trí đa sắc màu cho môi trường đô thị khô cằn, thêm yếu tố nghệ thuật vào cuộc sống, khẳng định vững chắc chỗ đứng trong mỹ thuật hiện đại.",
+  "explain": "\"사회 비판적 메시지\" + \"소수와 약자의 목소리\" + \"권력에 대한\" → **tinh thần phản kháng quyền lực** → ②.",
+  "options": [
+    "Sai: \"xóa bỏ sự nghi ngờ\" không hợp với tính phê phán.",
+    "Đúng.",
+    "Sai: phê phán là chủ động, không phải thụ động.",
+    "Sai: \"tạo phản ứng thiện cảm\" với quyền lực — ngược nghĩa."
+  ],
+  "vocab": [["낙서", "vẽ bậy"], ["비판적", "mang tính phê phán"], ["권력", "quyền lực"], ["저항 정신", "tinh thần phản kháng"], ["소수", "thiểu số"], ["약자", "kẻ yếu"], ["주류 문화", "văn hóa chính thống"], ["변방", "vùng biên, ngoại vi"], ["폄하당하다", "bị xem thường"], ["척박하다", "khô cằn"]],
+  "recall": {"q": "Trái nghĩa của 주류 là gì?", "a": "비주류 (phi chính thống)."}
+},
+"45": {
+  "hint": "\"그러나 오늘날 그라피티는 더 이상 변방의 문화에 머물러 있지 않다… **예술적 가치에도 주목하기 시작했다**.\"",
+  "point": "Chủ đề = phần sau `그러나 오늘날`",
+  "passageRef": 44,
+  "explain": "Trước kia bị coi là ngoài lề; **ngày nay được công nhận giá trị nghệ thuật** → ④.",
+  "options": [
+    "Sai: ngày nay graffiti **trang trí** cho đô thị.",
+    "Sai: graffiti đã vượt qua giới hạn đó.",
+    "Sai: trước kia graffiti nằm **ngoài** văn hóa chính thống.",
+    "Đúng."
+  ],
+  "vocab": [["훼손하다", "làm hư hại"], ["한계를 뛰어넘다", "vượt qua giới hạn"], ["인정받다", "được công nhận"]],
+  "recall": {"q": "Mạch \"과거 A → 그러나 오늘날 B\" thì chủ đề thường là gì?", "a": "B — sự thay đổi ở hiện tại."}
+},
+"46": {
+  "hint": "\"…이렇게 가다가는 무형 문화재의 **명맥이 끊기는 일이 생길 수** 있을 것이다.\"",
+  "point": "Thái độ: `우려하다` = lo ngại; `-다가는` = cứ thế này thì (kết quả xấu)",
+  "passage": "Luật bảo vệ di sản văn hóa hiện hành quy định âm nhạc, múa, kỹ năng thủ công có giá trị lịch sử, nghệ thuật cao là di sản văn hóa phi vật thể quốc gia. Theo đó, trong số các di sản phi vật thể được truyền qua nhiều thế hệ, những thứ có giá trị đáng kế thừa nguyên vẹn được chỉ định là di sản văn hóa phi vật thể quốc gia. Vì di sản phi vật thể không có hình thể, người nắm giữ kỹ năng được chỉ định là \"báu vật nhân văn sống\" để bảo tồn di sản thông qua họ. Nhưng số người muốn được truyền dạy các di sản này đang giảm, khiến việc bảo tồn bật đèn báo động. Vì dù mất nhiều thời gian vất vả học được kỹ năng, không phải cứ thế là được chỉ định làm báu vật nhân văn sống, và trong thời gian rèn luyện cũng không có hỗ trợ kinh tế của nhà nước. Văn hóa truyền thống gắn bó mật thiết với lòng tự hào dân tộc, cứ đà này thì mạch truyền thừa của di sản phi vật thể có thể bị đứt đoạn.",
+  "explain": "\"비상등이 켜졌다\" (báo động) + \"명맥이 끊기는 일이 생길 수\" (có thể bị đứt mạch) → tác giả **lo ngại việc truyền dạy di sản bị đứt đoạn** → ②.",
+  "options": [
+    "Sai: số người học **giảm**, không kỳ vọng tăng.",
+    "Đúng.",
+    "Sai: không thán phục ai.",
+    "Sai: không bàn tính minh bạch của quy trình chọn."
+  ],
+  "vocab": [["무형 문화재", "di sản văn hóa phi vật thể"], ["공예", "thủ công mỹ nghệ"], ["전승되다", "được truyền lại"], ["계승되다", "được kế thừa"], ["인간문화재", "báu vật nhân văn sống"], ["전수받다", "được truyền dạy"], ["비상등이 켜지다", "bật đèn báo động"], ["연마하다", "rèn luyện"], ["자긍심", "lòng tự hào"], ["명맥", "mạch sống, mạch truyền thừa"]],
+  "recall": {"q": "`-다가는` trong \"이렇게 가다가는\" nghĩa là gì?", "a": "Nếu cứ (tiếp tục)… thì (sẽ có kết quả xấu) — dùng để cảnh báo."}
+},
+"47": {
+  "hint": "\"…기능을 보유한 사람을 인간문화재로 지정해 **이들을 통해 문화재가 보존**되도록 한다.\"",
+  "point": "Diễn đạt lại: 이들을 통해 보존되다 ≈ 인간문화재를 통해 전수되다",
+  "passageRef": 46,
+  "explain": "Di sản phi vật thể được bảo tồn, truyền lại **thông qua báu vật nhân văn sống** nắm giữ kỹ năng → ②.",
+  "options": [
+    "Sai: có **luật bảo vệ di sản văn hóa** làm căn cứ.",
+    "Đúng.",
+    "Sai: trong thời gian học **không có** hỗ trợ kinh tế.",
+    "Sai: phải kế thừa **nguyên vẹn** (원형 그대로)."
+  ],
+  "vocab": [["법적 근거", "căn cứ pháp lý"], ["보유하다", "nắm giữ"], ["원형", "nguyên bản"], ["변형하다", "biến đổi"]],
+  "recall": {"q": "Đáp án ④ trái với cụm từ nào trong bài?", "a": "\"원형 그대로 계승될 만한 가치\" — kế thừa nguyên vẹn, không biến đổi."}
+},
+"48": {
+  "hint": "Các biện pháp hiện có (đánh giá, phí) **có hiệu quả hạn chế** → \"보다 **전방위적으로 여러 정책을** 시행\" → tác giả muốn gì?",
+  "point": "Mục đích: `다각화를 주장하다` = chủ trương đa dạng hóa",
+  "passage": "Khi vấn đề ùn tắc giao thông nội đô trở nên nghiêm trọng, việc xây công trình mới phải qua đánh giá tác động giao thông từ trước. Tức là dự đoán tác động lan tỏa tiêu cực mà công trình đó gây ra cho tình hình giao thông xung quanh, rồi tìm trước cách giảm nhẹ. Ví dụ tiêu biểu là phản ánh kết quả đánh giá để tăng tính kết nối giữa công trình với tàu điện ngầm, xe buýt…, khuyến khích dùng giao thông công cộng, qua đó (**giảm lưu lượng giao thông xung quanh**). Ngoài ra còn có chế độ đánh phí gây ùn tắc giao thông đối với chủ sở hữu các cơ sở gây ùn tắc. Tuy nhiên, phần lớn đánh giá rằng chỉ những cách này thì hiệu quả hạn chế. Tức là có giới hạn trong việc ngăn ùn tắc do dân số đổ vào tăng. Vì vậy, cần thực hiện nhiều chính sách toàn diện hơn để giải quyết vấn đề giao thông nội đô. Nếu song song áp dụng nhiều phương án như ưu đãi cho chủ cơ sở thực sự nỗ lực giải quyết vấn đề, chỉnh trang mạng lưới đường nội đô… thì môi trường giao thông nội đô có thể dần được cải thiện.",
+  "explain": "Biện pháp hiện tại có giới hạn → cần **nhiều chính sách toàn diện**, song song nhiều phương án → **chủ trương đa dạng hóa giải pháp** → ③.",
+  "options": [
+    "Sai: tác giả không nhấn mạnh mặt tiêu cực của đánh giá; chỉ nói hiệu quả hạn chế.",
+    "Sai: phí ùn tắc chỉ là một ví dụ.",
+    "Đúng.",
+    "Sai: ưu đãi là một đề xuất trong nhiều phương án."
+  ],
+  "vocab": [["교통 혼잡", "ùn tắc giao thông"], ["교통 영향 평가", "đánh giá tác động giao thông"], ["파급 효과", "hiệu ứng lan tỏa"], ["연계성", "tính kết nối"], ["유도하다", "khuyến khích, dẫn dắt"], ["부담금", "khoản phí phải đóng"], ["전방위적", "toàn diện"], ["병행하다", "song song"], ["다각화", "đa dạng hóa"]],
+  "recall": {"q": "`-(으)ㅁ으로써` trong \"이용을 유도함으로써\" nghĩa là gì?", "a": "Bằng cách/thông qua việc (khuyến khích dùng giao thông công cộng)."}
+},
+"49": {
+  "hint": "Mục tiêu của đánh giá là giảm tác động **tiêu cực** lên giao thông. Khuyến khích đi giao thông công cộng → giảm điều gì?",
+  "point": "Kết quả của `대중교통 이용 유도` → giảm xe cá nhân → giảm lưu lượng",
+  "passageRef": 48,
+  "translate": "Ví dụ tiêu biểu là tăng kết nối giữa công trình với tàu điện, xe buýt để khuyến khích dùng giao thông công cộng, qua đó **giảm lưu lượng giao thông xung quanh**.",
+  "explain": "Khuyến khích dùng giao thông công cộng → ít xe cá nhân → **giảm lưu lượng giao thông xung quanh** → ④.",
+  "options": [
+    "Sai: không liên quan thời gian xây.",
+    "Sai: ngược mục đích (gây ùn tắc).",
+    "Sai: mở rộng bãi đỗ xe khuyến khích đi ô tô — ngược hướng.",
+    "Đúng."
+  ],
+  "vocab": [["교통량", "lưu lượng giao thông"], ["감축하다", "cắt giảm"], ["연장되다", "được kéo dài"]],
+  "recall": {"q": "Đáp án ③ sai về logic thế nào?", "a": "Bãi đỗ lớn hơn → khuyến khích đi ô tô riêng, trái với mục tiêu khuyến khích giao thông công cộng."}
+},
+"50": {
+  "correctedAns": 4,
+  "fixNote": "Web gốc ghi đáp án ①, nhưng ① mâu thuẫn trực tiếp với câu đầu bài (đánh giá được làm **trước** khi xây). Theo nội dung bài, đáp án đúng là ④. Web này chấm theo ④.",
+  "hint": "\"또한 교통 혼잡을 유발하는 시설의 소유자에게 **교통 유발 부담금을 부과하는 제도**도 시행하고 있다.\"",
+  "point": "Đối chiếu chi tiết: thời điểm đánh giá (사전에), mục đích, chế độ đang áp dụng vs đề xuất",
+  "passageRef": 48,
+  "explain": "Chủ cơ sở gây ùn tắc bị **đánh phí** (chế độ đang thi hành) → ④.",
+  "options": [
+    "Sai: đánh giá được thực hiện **trước** (사전에) khi xây, không phải sau.",
+    "Sai: đánh giá nhằm giảm tác động giao thông, không để tăng dân số đổ vào.",
+    "Sai: ưu đãi cho chủ cơ sở là **đề xuất** của tác giả (주고… 병행한다면), chưa được áp dụng.",
+    "Đúng: chủ cơ sở gây ùn tắc phải đóng phí."
+  ],
+  "vocab": [["사전에", "trước, từ trước"], ["유입", "đổ vào"], ["혜택", "ưu đãi, lợi ích"]],
+  "recall": {"q": "Vì sao ③ sai dù bài có nhắc \"ưu đãi\"?", "a": "Vì ưu đãi là điều tác giả **đề xuất** (nếu làm thì sẽ cải thiện), không phải điều đang diễn ra."}
+}
+}
